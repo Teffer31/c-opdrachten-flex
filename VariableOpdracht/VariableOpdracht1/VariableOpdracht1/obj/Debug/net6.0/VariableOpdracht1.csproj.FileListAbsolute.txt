@@ -1,0 +1,15 @@
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.csproj.AssemblyReference.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.AssemblyInfoInputs.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.AssemblyInfo.cs
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.csproj.CoreCompileInputs.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.exe
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.deps.json
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.runtimeconfig.json
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.pdb
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\refint\VariableOpdracht1.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.pdb
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.genruntimeconfig.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\ref\VariableOpdracht1.dll

@@ -1,0 +1,15 @@
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.csproj.AssemblyReference.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.AssemblyInfoInputs.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.AssemblyInfo.cs
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.exe
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.deps.json
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.runtimeconfig.json
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.pdb
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\refint\CalculateOpdracht2.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.pdb
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.genruntimeconfig.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\CalculateOpdracht\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\ref\CalculateOpdracht2.dll
