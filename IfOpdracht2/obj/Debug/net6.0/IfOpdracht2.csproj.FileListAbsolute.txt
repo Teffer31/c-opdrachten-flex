@@ -1,0 +1,15 @@
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.exe
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.deps.json
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.runtimeconfig.json
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\bin\Debug\net6.0\IfOpdracht2.pdb
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.csproj.AssemblyReference.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.AssemblyInfoInputs.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.AssemblyInfo.cs
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\refint\IfOpdracht2.dll
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.pdb
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\IfOpdracht2.genruntimeconfig.cache
+C:\Users\tbarm\OneDrive\Documenten\ma\mbo3\flex\IfOpdracht\IfOpdracht2\IfOpdracht2\obj\Debug\net6.0\ref\IfOpdracht2.dll
